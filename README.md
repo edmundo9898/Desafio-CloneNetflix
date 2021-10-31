@@ -1,5 +1,5 @@
 # Desafio-CloneNetflix  
-Project done in dio's push React Web Developer bootcamp (Digital Innovation one), The main project was to recreate a netflix interface.
+Project done in dio push React Web Developer bootcamp (Digital Innovation one), The main project was to recreate a netflix interface.
 
 ## One PieceFlix 
 Desktop
