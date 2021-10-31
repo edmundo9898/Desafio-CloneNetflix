@@ -1,0 +1,18 @@
+One PieceFlix 
+ Projeto feito no bootcamp  impulso da dio (Digital Inovation one), O projeto principal era recriar a interface da netflix.
+
+ One PieceFlix  é um projeto feito  por me no foco de aprimorar os conhecimentos adquiridos no projeto e nas aulas anteriores. de uma interface de streaming focada no anime One Piece, Mantendo algumas funcionalidades do projeto original,
+ contendo  temporadas,filmes,mangás
+
+
+ 
+ 
+ Programas/ferramentas usadas 
+
+ Visual studio code 
+ Font Awsome (icones)
+ OLW carousel 2
+
+   
+
+ 
