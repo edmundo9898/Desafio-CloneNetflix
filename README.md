@@ -14,7 +14,7 @@ Streaming interface focused on the One Piece anime, Keeping some features of the
 ## Programs / tools used
 
  Visual studio code <br>
- Font Awsome (icones) <br>
+ Font Awesome (icones) <br>
  OLW carousel 2 (JQuery)
  
  
